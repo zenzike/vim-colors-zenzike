@@ -24,6 +24,7 @@ let s:colors88 = [
   \ ["Normal",        "15",   "0",    "",     "",         ""],
   \ ["NonText",       "80",   "0",    "",     "",         ""],
   \ ["MatchParen",    "",     "82",   "",     "",         ""],
+  \ ["ColorColumn",   "",     "80",   "",     "",         ""],
   \ ["Cursor",        "0",    "9",    "",     "",         ""],
   \ ["CursorLine",    "",     "81",   "none", "",         ""],
   \ ["CursorColumn",  "",     "81",   "none", "",         ""],
