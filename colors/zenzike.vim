@@ -21,8 +21,8 @@ let colors_name = "zenzike"
 
 "    colorgroup       fg      bg      cterm   gui         guisp
 let s:colors88 = [
-  \ ["Normal",        "15",   "0",    "",     "",         ""],
-  \ ["NonText",       "80",   "0",    "",     "",         ""],
+  \ ["Normal",        "15",   "",    "",     "",         ""],
+  \ ["NonText",       "0",   "80",    "",     "",         ""],
   \ ["MatchParen",    "",     "82",   "",     "",         ""],
   \ ["ColorColumn",   "",     "80",   "",     "",         ""],
   \ ["Cursor",        "0",    "9",    "",     "",         ""],
